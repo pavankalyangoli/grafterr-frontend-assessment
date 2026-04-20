@@ -19,4 +19,4 @@
 * *Note on Carousel:* Instead of a standard product carousel, I implemented a native, drag-to-scroll text carousel for a more modern, app-like user experience, complete with a dynamic scroll indicator.
 
 ## Live URL
-[Insert your Vercel/Netlify Link Here]
+[https://grafterr-frontend-assessment.vercel.app/]
