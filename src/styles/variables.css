@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;600;700&family=Urbanist:wght@700&display=swap');
+
+:root {
+    --gradient-bg: linear-gradient(90deg, #5895F0 0%, #F1B662 100%);
+    --text-secondary: #777777;
+    --text-primary: #1A1A1A;
+    --bg-color: #ffffff;
+    --border-color: #e5e7eb;
+
+    --font-primary: 'Raleway', sans-serif;
+    --font-products: 'Urbanist', sans-serif;
+}

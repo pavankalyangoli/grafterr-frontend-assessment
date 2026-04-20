@@ -1,0 +1,76 @@
+{
+    "hero": {
+        "headlinePrefix": "Looking for a new",
+        "headlineGradient": "technology provider?",
+        "subheadlineStart": "Explore our ",
+        "subheadlineHighlight": "success stories",
+        "subheadlineEnd": " to see how businesses like yours have transformed with Grafterr's technology.",
+        "cta": "Learn more",
+        "shapes": [
+            {
+                "type": "teal-circle",
+                "top": "10%",
+                "left": "20%"
+            },
+            {
+                "type": "coral-square",
+                "top": "20%",
+                "right": "20%"
+            }
+        ]
+    },
+    "features": {
+        "textSlides": [
+            {
+                "title": "More ways",
+                "titleAccent": "Grafterr",
+                "titleSuffix": "can help you grow your business",
+                "subtitle": "An award-winning, end-to-end restaurant technology & payments platform, designed to streamline food service and automate complex venue operations"
+            },
+            {
+                "title": "More ways",
+                "titleAccent": "Grafterr",
+                "titleSuffix": "can help you grow your business",
+                "subtitle": "An award-winning, end-to-end restaurant technology & payments platform, designed to streamline food service and automate complex venue operations"
+            },
+            {
+                "title": "More ways",
+                "titleAccent": "Grafterr",
+                "titleSuffix": "can help you grow your business",
+                "subtitle": "An award-winning, end-to-end restaurant technology & payments platform, designed to streamline food service and automate complex venue operations"
+            }
+        ],
+        "products": [
+            {
+                "id": 1,
+                "title": "Point of sale",
+                "image": "/images/pointofscale.png"
+            },
+            {
+                "id": 2,
+                "title": "Self-service",
+                "image": "/images/self-service.png"
+            },
+            {
+                "id": 3,
+                "title": "Kitchen management",
+                "image": "/images/kitchen.png"
+            },
+            {
+                "id": 4,
+                "title": "Point of sale",
+                "image": "/images/pointofscale.png"
+            },
+            {
+                "id": 5,
+                "title": "Self-service",
+                "image": "/images/self-service.png"
+            },
+            {
+                "id": 6,
+                "title": "Kitchen management",
+                "image": "/images/kitchen.png"
+            }
+        ]
+    }
+}
